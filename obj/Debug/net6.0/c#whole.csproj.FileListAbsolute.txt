@@ -1,0 +1,15 @@
+C:\Users\BhaskarK\c#whole\bin\Debug\net6.0\c#whole.exe
+C:\Users\BhaskarK\c#whole\bin\Debug\net6.0\c#whole.deps.json
+C:\Users\BhaskarK\c#whole\bin\Debug\net6.0\c#whole.runtimeconfig.json
+C:\Users\BhaskarK\c#whole\bin\Debug\net6.0\c#whole.dll
+C:\Users\BhaskarK\c#whole\bin\Debug\net6.0\c#whole.pdb
+C:\Users\BhaskarK\c#whole\obj\Debug\net6.0\c#whole.csproj.AssemblyReference.cache
+C:\Users\BhaskarK\c#whole\obj\Debug\net6.0\c#whole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BhaskarK\c#whole\obj\Debug\net6.0\c#whole.AssemblyInfoInputs.cache
+C:\Users\BhaskarK\c#whole\obj\Debug\net6.0\c#whole.AssemblyInfo.cs
+C:\Users\BhaskarK\c#whole\obj\Debug\net6.0\c#whole.csproj.CoreCompileInputs.cache
+C:\Users\BhaskarK\c#whole\obj\Debug\net6.0\c#whole.dll
+C:\Users\BhaskarK\c#whole\obj\Debug\net6.0\refint\c#whole.dll
+C:\Users\BhaskarK\c#whole\obj\Debug\net6.0\c#whole.pdb
+C:\Users\BhaskarK\c#whole\obj\Debug\net6.0\c#whole.genruntimeconfig.cache
+C:\Users\BhaskarK\c#whole\obj\Debug\net6.0\ref\c#whole.dll
